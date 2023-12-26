@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKAJA25Mzzf2YpIcCClE6xwzfiEQNFEKWhjqc+8bfTUhIJtyN8FpRSa/nlzJ/3T1mJroaYB3LleuSAINcqrlpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diase\\Desktop\\Aulas\\Aula01\\aula01.1\\aula01.1\\aula01.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diase\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\diase\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\diase\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\diase\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

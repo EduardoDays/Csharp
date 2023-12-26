@@ -1,0 +1,15 @@
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.csproj.AssemblyReference.cache
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.AssemblyInfoInputs.cache
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.AssemblyInfo.cs
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.csproj.CoreCompileInputs.cache
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\bin\Debug\net6.0\aula01.1.exe
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\bin\Debug\net6.0\aula01.1.deps.json
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\bin\Debug\net6.0\aula01.1.runtimeconfig.json
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\bin\Debug\net6.0\aula01.1.dll
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\bin\Debug\net6.0\aula01.1.pdb
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.dll
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\refint\aula01.1.dll
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.pdb
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\aula01.1.genruntimeconfig.cache
+C:\Users\diase\Desktop\Aulas\Aula01\aula01.1\aula01.1\obj\Debug\net6.0\ref\aula01.1.dll
