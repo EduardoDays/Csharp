@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diase\\Desktop\\Aulas\\Aula01\\aula01.1\\aula01.1\\aula01.1.csproj",
+      "projectUniqueName": "C:\\Users\\diase\\Documents\\Csharp\\C#\\Aula01\\aula01.1\\aula01.1\\aula01.1.csproj",
       "projectName": "aula01.1",
-      "projectPath": "C:\\Users\\diase\\Desktop\\Aulas\\Aula01\\aula01.1\\aula01.1\\aula01.1.csproj",
+      "projectPath": "C:\\Users\\diase\\Documents\\Csharp\\C#\\Aula01\\aula01.1\\aula01.1\\aula01.1.csproj",
       "packagesPath": "C:\\Users\\diase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diase\\Desktop\\Aulas\\Aula01\\aula01.1\\aula01.1\\obj\\",
+      "outputPath": "C:\\Users\\diase\\Documents\\Csharp\\C#\\Aula01\\aula01.1\\aula01.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diase\\AppData\\Roaming\\NuGet\\NuGet.Config",
